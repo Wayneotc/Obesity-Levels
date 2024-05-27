@@ -1,4 +1,4 @@
-#Obesity Level Prediction Project
+*Obesity Level Prediction Project*
 Overview
 This project aims to predict obesity levels based on various features such as gender, age, height, weight, and lifestyle factors. Several machine learning models were trained and evaluated to achieve accurate predictions
 
