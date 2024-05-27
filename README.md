@@ -5,10 +5,15 @@ Overview
 This project aims to predict obesity levels based on various features such as gender, age, height, weight, and lifestyle factors. Several machine learning models were trained and evaluated to achieve accurate predictions
 
 Loading the data(ObesityDataSet_raw_and_data_sinthetic).
+
 Feature Engineering.
+
 Training the data with machine and deep learning algorithms.
+
 Evaluating the models' performance on the training and testing data.
-Saving the model
+
+Saving the model.
+
 Selection of the best models for deployment.
 
 Data Visualization Insights
