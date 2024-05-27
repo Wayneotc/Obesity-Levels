@@ -1,6 +1,7 @@
 *Obesity Level Prediction Project*
 
 Overview
+
 This project aims to predict obesity levels based on various features such as gender, age, height, weight, and lifestyle factors. Several machine learning models were trained and evaluated to achieve accurate predictions
 
 Loading the data(ObesityDataSet_raw_and_data_sinthetic).
@@ -12,12 +13,15 @@ Selection of the best models for deployment.
 
 Data Visualization Insights
 Density Plot Observations
+
 Weight, Age, and Height:
+
 Obesity type III is prevalent for people with a weight of 100 and above.
 Individuals between ages 20 and 30 are mostly affected by Obesity type III.
 Obesity type II is prevalent for people with a height of 1.8 meters.
 Age Distribution Plot Observations
 Age Distribution:
+
 The majority of individuals in the dataset are between the ages of 20 and 30.
 Older age groups (40 and above) are underrepresented in the dataset.
 Box Plot Observations
