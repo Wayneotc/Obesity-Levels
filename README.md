@@ -16,7 +16,7 @@ This project aims to predict obesity levels based on various features such as ge
 
 - Selection of the best models for deployment.
 
-Data Visualization Insights
+### Data Visualization Insights
 Density Plot Observations
 
 Weight, Age, and Height:
