@@ -69,7 +69,7 @@ python -m venv myenv
 # <!-- Activate the virtual environment -->
 myenv\Scripts\activate
 
-# <!-- Install the dependencies -->
+# <!--Install the dependencies-->
 pip install -r requirements.txt
 
 # <!-- Run the Streamlit app -->
