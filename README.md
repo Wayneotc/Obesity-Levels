@@ -55,6 +55,15 @@ You can access the deployed Streamlit application [here](https://obesity-levelsg
 - Time using technology devices (hours per day)
 - Physical activity frequency (times per week)
 
+# Outputs
+The app will display following messages:
+- Overweight_Level_I
+- Overweight_Level_II
+- Insufficient_weight
+- Obesity_Type_III
+- Obesity_Type_II
+- Obesity_Type_I
+- Normal_weight
 #🤝 Contact
 kiplagatwayne@gmail.com
 # Installation
