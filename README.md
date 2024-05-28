@@ -36,8 +36,8 @@ Older individuals tend to be more represented in higher obesity levels, especial
 Noticeable differences in age distribution between genders across obesity levels, with males generally showing higher median ages in more severe obesity categories.
 
 ## Model Training Results
-Cross-Validation Accuracy Scores
-Average Cross-Validation Accuracy: 0.819
+-Decision Trees:
+Average Cross-Validation Accuracy: 0.922
 
 -Random Forest:
 Average Cross-Validation Accuracy: 0.931
@@ -49,10 +49,10 @@ Average Cross-Validation Accuracy: 0.781
 Average Cross-Validation Accuracy: 0.953
 
 -GradientBoostingClassifier:
-Average Cross-Validation Accuracy: 0.883
+Average Cross-Validation Accuracy: 0.952
 
 -MLPClassifier:
-Average Cross-Validation Accuracy: N/A
+Average Cross-Validation Accuracy: 0.882
 
 ## Test Set Results
 
