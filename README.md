@@ -54,23 +54,20 @@ You can access the deployed Streamlit application [here](https://obesity-levelsg
 - Daily water consumption (CH2O)
 - Time using technology devices (hours per day)
 - Physical activity frequency (times per week)
+
+#🤝 Contact
+kiplagatwayne@gmail.com
 # Installation
 Make sure to install the necessary dependencies from requirements.txt and follow the instructions below to run the app locally.
 ```sh
 git clone https://github.com/Wayneotc/Obesity-Levels.git
+
 cd Obesity-Levels
+
 python -m venv myenv
+
 myenv\Scripts\activate
+
 pip install -r requirements.txt
+
 streamlit run app.py
-
-
-
-🤝 Contact
-kiplagatwayne@gmail.com
-
-
-
-
-
-
