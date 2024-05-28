@@ -32,8 +32,28 @@ Based on the trained models and their performance metrics, the GradientBoostingC
 The model has been deployed using Streamlit.
 You can access the deployed Streamlit application [here](https://obesity-levelsgit-3mnn7sqzxuxrjjh8dtd5zo.streamlit.app/).
 
-Project Link
-### ⚙️ Installation
+# Usage
+1. Open the app in your web browser.
+2. Enter the required information in the input fields.
+3. Click the 'Predict' button to generate the prediction.
+
+# Inputs
+- Gender
+- Do you frequently consume high caloric food?
+- Do you smoke?
+- Do you monitor your calorie consumption?
+- How often do you drink alcohol?
+- CAEC
+- MTRANS
+- Age
+- Height (in cm)
+- Weight (in kg)
+- Frequency of consumption of vegetables
+- Number of main meals
+- Daily water consumption (CH2O)
+- Time using technology devices (hours per day)
+- Physical activity frequency (times per week)
+### Installation
 Make sure to install the necessary dependencies from requirements.txt and follow the instructions below to run the app locally.
 ```sh
 # Clone the Repository
@@ -54,16 +74,11 @@ pip install -r requirements.txt
 # Run the Streamlit app
 streamlit run app.py
 
-⏯️ Usage
-Open the app in your web browser.
-Enter the required information in the input fields.
-Click the 'Predict' button to generate the prediction.
-
 🤝 Contact
 kiplagatwayne@gmail.com
-Project Link:
 
-Just copy and paste this Markdown into your README file on GitHub, and it will display as formatted text.
+
+
 
 
 
