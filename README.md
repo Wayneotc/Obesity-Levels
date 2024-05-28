@@ -64,7 +64,8 @@ The app will display following messages:
 - Obesity_Type_II
 - Obesity_Type_I
 - Normal_weight
-#🤝 Contact
+
+# Contact
 kiplagatwayne@gmail.com
 # Installation
 Make sure to install the necessary dependencies from requirements.txt and follow the instructions below to run the app locally.
