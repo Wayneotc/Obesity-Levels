@@ -47,30 +47,16 @@ The model has been deployed using Streamlit. The app can be accessed here. Make 
 
 Running the App Locally
 ### Clone the Repository
-
 ```sh
 git clone https://github.com/Wayneotc/Obesity-Levels.git
+### Go to the directory
 cd Obesity-Levels
-sh
-Copy code
-python -m venv myenv
-Activate the virtual environment:
-
-Windows:
-sh
-Copy code
+### Create the virtual environment
+cd python -m venv myenv
+### Activate the virtual environment:
 myenv\Scripts\activate
-macOS/Linux:
-sh
-Copy code
-source myenv/bin/activate
-Install the dependencies:
-
-sh
-Copy code
+### Install the dependencies:
 pip install -r requirements.txt
-Run the Streamlit app:
 
-sh
-Copy code
+Run the Streamlit app:
 streamlit run app.py
