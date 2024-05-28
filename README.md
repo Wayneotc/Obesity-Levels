@@ -34,15 +34,11 @@ The project workflow includes the following steps:
 | KNN                         | 0.886     | 0.878  | 0.873    | 739     | 0.878    |
 | MLPClassifier               | 0.855     | 0.854  | 0.852    | 739     | 0.854    |
 
-Stacked Classifier Results
-Accuracy: 0.951
-Precision: 0.951
-Recall: 0.951
-F1-score: 0.951
-Conclusion
+- Stacked Classifier Results : F1-score: 0.951
+### Conclusion
 Based on the trained models and their performance metrics, the GradientBoostingClassifier achieved the highest accuracy of 96%. This model can be utilized for predicting obesity levels based on the provided features.
 
-Deployment
+###Deployment
 The model has been deployed using Streamlit. The app can be accessed here. Make sure to install the necessary dependencies from requirements.txt and follow the instructions below to run the app locally.
 
 Running the App Locally
