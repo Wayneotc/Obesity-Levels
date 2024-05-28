@@ -57,6 +57,5 @@ cd python -m venv myenv
 myenv\Scripts\activate
 ### Install the dependencies:
 pip install -r requirements.txt
-
-Run the Streamlit app:
+### Run the Streamlit app:
 streamlit run app.py
