@@ -32,34 +32,6 @@ Based on the trained models and their performance metrics, the GradientBoostingC
 The model has been deployed using Streamlit.
 You can access the deployed Streamlit application [here](https://obesity-levelsgit-3mnn7sqzxuxrjjh8dtd5zo.streamlit.app/).
 
-Go to the directory
-sh
-Copy code
-cd Obesity-Levels
-Create the virtual environment
-sh
-Copy code
-python -m venv myenv
-Activate the virtual environment
-sh
-Copy code
-myenv\Scripts\activate
-Install the dependencies
-sh
-Copy code
-pip install -r requirements.txt
-Run the Streamlit app
-sh
-Copy code
-streamlit run app.py
-Usage
-Open the app in your web browser.
-Enter the required information in the input fields.
-Click the 'Predict' button to generate the prediction.
-
-Contact
-For any inquiries, reach out to kiplagatwayne@gmail.com.
-
 Project Link
 ### ⚙️ Installation
 Make sure to install the necessary dependencies from requirements.txt and follow the instructions below to run the app locally.
@@ -90,5 +62,8 @@ Click the 'Predict' button to generate the prediction.
 🤝 Contact
 kiplagatwayne@gmail.com
 Project Link:
+
+Just copy and paste this Markdown into your README file on GitHub, and it will display as formatted text.
+
 
 
