@@ -1,6 +1,8 @@
 ### Obesity Level Prediction Project
-Overview
-This project aims to predict obesity levels based on various features such as gender, age, height, weight, and lifestyle factors. Several machine learning models were trained and evaluated to achieve accurate predictions. The workflow includes loading the data, performing feature engineering, training various machine learning and deep learning algorithms, evaluating model performance, saving the best models, and deploying the best-performing model.
+- Overview
+This project aims to predict obesity levels based on various features such as gender, age, height, weight, and lifestyle factors.
+
+Several machine learning models were trained and evaluated to achieve accurate predictions.
 
 ### Table of Contents
 Project Description
@@ -44,14 +46,11 @@ Deployment
 The model has been deployed using Streamlit. The app can be accessed here. Make sure to install the necessary dependencies from requirements.txt and follow the instructions below to run the app locally.
 
 Running the App Locally
-Clone the repository:
+### Clone the Repository
 
-sh
-Copy code
+```sh
 git clone https://github.com/Wayneotc/Obesity-Levels.git
 cd Obesity-Levels
-Create a virtual environment:
-
 sh
 Copy code
 python -m venv myenv
