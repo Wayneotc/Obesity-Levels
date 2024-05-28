@@ -22,14 +22,16 @@ The project workflow includes the following steps:
 5. Saving the model: Persisting the best models for future use.
 6. Selection of the best models for deployment: Choosing the top-performing models for real-world application.
 
-### Test Set Results
-Model	Precision	Recall	F1-Score	Support	Accuracy
-GradientBoostingClassifier	0.967	0.966	0.966	739	0.966
-SVM	0.942	0.940	0.940	739	0.940
-RandomForestClassifier	0.930	0.927	0.928	739	0.927
-DecisionTreeClassifier	0.913	0.912	0.912	739	0.912
-KNN	0.886	0.878	0.873	739	0.878
-MLPClassifier	0.855	0.854	0.852	739	0.854
+## Test Set Results
+| Model                       | Precision | Recall | F1-Score | Support | Accuracy |
+|-----------------------------|-----------|--------|----------|---------|----------|
+| GradientBoostingClassifier  | 0.967     | 0.966  | 0.966    | 739     | 0.966    |
+| SVM                         | 0.942     | 0.940  | 0.940    | 739     | 0.940    |
+| RandomForestClassifier      | 0.930     | 0.927  | 0.928    | 739     | 0.927    |
+| DecisionTreeClassifier      | 0.913     | 0.912  | 0.912    | 739     | 0.912    |
+| KNN                         | 0.886     | 0.878  | 0.873    | 739     | 0.878    |
+| MLPClassifier               | 0.855     | 0.854  | 0.852    | 739     | 0.854    |
+
 Stacked Classifier Results
 Accuracy: 0.951
 Precision: 0.951
