@@ -25,11 +25,12 @@ The project workflow includes the following steps:
 | MLPClassifier               | 0.855     | 0.854  | 0.852    | 739     | 0.854    |
 
 - Stacked Classifier Results : F1-score: 0.951
-### Conclusion
+# Conclusion
 Based on the trained models and their performance metrics, the GradientBoostingClassifier achieved the highest accuracy of 96%. This model can be utilized for predicting obesity levels based on the provided features.
 
-### Deployment
+# Deployment
 The model has been deployed using Streamlit.
+
 You can access the deployed Streamlit application [here](https://obesity-levelsgit-3mnn7sqzxuxrjjh8dtd5zo.streamlit.app/).
 
 # Usage
