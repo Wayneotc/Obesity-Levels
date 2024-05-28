@@ -35,22 +35,21 @@ You can access the deployed Streamlit application [here](https://obesity-levelsg
 
 ### ⚙️ Installation
 Make sure to install the necessary dependencies from requirements.txt and follow the instructions below to run the app locally.
-# Clone the Repository
-git clone https://github.com/Wayneotc/Obesity-Levels.git
+Clone the Repository
+'git clone https://github.com/Wayneotc/Obesity-Levels.git'
 
-# Go to the directory
-cd Obesity-Levels
+Go to the directory
+'cd Obesity-Levels'
 
-# Create the virtual environment
-python -m venv myenv
+Create the virtual environment
+'python -m venv myenv'
 
-# Activate the virtual environment
-myenv\Scripts\activate
+Activate the virtual environment
+'myenv\Scripts\activate'
 
-# Install the dependencies
-pip install -r requirements.txt
+Install the dependencies
+'pip install -r requirements.txt'
 
-# Run the Streamlit app
-streamlit run app.py
+Run the Streamlit app
+'streamlit run app.py'
 
-streamlit run app.py
