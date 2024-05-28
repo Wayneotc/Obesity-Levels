@@ -4,16 +4,6 @@ This project aims to predict obesity levels based on various features such as ge
 
 Several machine learning models were trained and evaluated to achieve accurate predictions.
 
-### Table of Contents
-Project Description
-Data Visualization Insights
-Density Plot Observations
-Age Distribution Plot Observations
-Box Plot Observations
-Model Training Results
-Test Set Results
-Conclusion
-Deployment
 ### Project Description
 The project workflow includes the following steps:
 
