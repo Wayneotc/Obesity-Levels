@@ -1,10 +1,10 @@
-### Obesity Level Prediction Project
-- Overview
+# Obesity Level Prediction Project
+### Overview
 This project aims to predict obesity levels based on various features such as gender, age, height, weight, and lifestyle factors.
 
 Several machine learning models were trained and evaluated to achieve accurate predictions.
 
-### Project Description
+# Project Description
 The project workflow includes the following steps:
 
 1. Loading the data: Importing the dataset ObesityDataSet_raw_and_data_sinthetic.csv.
@@ -54,7 +54,7 @@ You can access the deployed Streamlit application [here](https://obesity-levelsg
 - Daily water consumption (CH2O)
 - Time using technology devices (hours per day)
 - Physical activity frequency (times per week)
-### Installation
+# Installation
 Make sure to install the necessary dependencies from requirements.txt and follow the instructions below to run the app locally.
 ```sh
 # Clone the Repository
