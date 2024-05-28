@@ -29,9 +29,12 @@ The project workflow includes the following steps:
 Based on the trained models and their performance metrics, the GradientBoostingClassifier achieved the highest accuracy of 96%. This model can be utilized for predicting obesity levels based on the provided features.
 
 ### Deployment
-The model has been deployed using Streamlit. The app can be accessed here. Make sure to install the necessary dependencies from requirements.txt and follow the instructions below to run the app locally.
+The model has been deployed using Streamlit.
+You can access the deployed Streamlit application [here](https://obesity-levelsgit-3mnn7sqzxuxrjjh8dtd5zo.streamlit.app/).
 
-Running the App Locally
+
+### Running the App Locally
+Make sure to install the necessary dependencies from requirements.txt and follow the instructions below to run the app locally.
 ### Clone the Repository
 ```sh
 git clone https://github.com/Wayneotc/Obesity-Levels.git
