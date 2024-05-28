@@ -28,7 +28,7 @@ The project workflow includes the following steps:
 ### Conclusion
 Based on the trained models and their performance metrics, the GradientBoostingClassifier achieved the highest accuracy of 96%. This model can be utilized for predicting obesity levels based on the provided features.
 
-###Deployment
+### Deployment
 The model has been deployed using Streamlit. The app can be accessed here. Make sure to install the necessary dependencies from requirements.txt and follow the instructions below to run the app locally.
 
 Running the App Locally
